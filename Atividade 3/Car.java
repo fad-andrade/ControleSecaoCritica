@@ -1,3 +1,5 @@
+// Desenvolvido por: Angelina Gomes e Felipe Amorim
+
 import java.awt.*;
 
 public class Car implements Runnable{
