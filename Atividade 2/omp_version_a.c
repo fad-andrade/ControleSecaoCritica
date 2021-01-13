@@ -1,3 +1,5 @@
+// Desenvolvido por: Angelina Gomes e Felipe Amorim
+
 #include<sys/time.h>
 #include<stdlib.h>
 #include<stdio.h>
